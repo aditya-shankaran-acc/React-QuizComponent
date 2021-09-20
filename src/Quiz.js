@@ -1,4 +1,4 @@
-import React, {Component} from 'reacteact'
+import React, { Component } from 'reacteact'
 
 let QuizData=require('./quiz_data.json')
 
